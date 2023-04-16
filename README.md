@@ -1,6 +1,9 @@
 # skin_cancer_detection
 
-Coming Soon!!
+
+
+
+DINO for skin cancer detection <a href="https://github.com/peterwisu/skin_cancer_dino" >Link</a>
 
 ## Memeber of a groups
 
