@@ -1,7 +1,14 @@
 # skin_cancer_detection
 
+## Supervise method
 
+Unet 
 
+YOLO 
+
+Joint classifier
+
+## Unsupervise/Self-supervised method
 
 DINO for skin cancer detection <a href="https://github.com/peterwisu/skin_cancer_dino" >Link</a>
 
