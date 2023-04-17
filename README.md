@@ -12,6 +12,8 @@ Joint classifier
 
 DINO for skin cancer detection <a href="https://github.com/peterwisu/skin_cancer_dino" >Link</a>
 
+Kmeans Clustering
+
 ## Memeber of a groups
 
 1. Wish Suharitdamrong
